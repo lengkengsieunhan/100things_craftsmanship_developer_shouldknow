@@ -15,19 +15,29 @@ Vấn đề: Không nêu rõ phần nào khó, cần xác nhận với ai, khi n
 ➡ Không nêu rõ phần nào khó, cần xác nhận với ai, khi nào.
 
 2/ Hứa mơ hồ về deadline
-“Tôi nghĩ là sẽ xong trong tuần sau.”
+❌ Mơ hồ: “Tôi nghĩ là sẽ xong trong tuần sau.”
 Vấn đề: Không có ngày cụ thể, thiếu cam kết.
-→ “Dự kiến hoàn thành vào ngày 26/6 (thứ Tư). Nếu có chậm trễ, sẽ thông báo trước ngày 24/6.”
+→ ✅ Rõ ràng: “Dự kiến hoàn thành vào ngày 26/6 (thứ Tư). Nếu có chậm trễ, sẽ thông báo trước ngày 24/6.”
 
 3/ Trả lời khi bị truy vấn lỗi
-“Có lẽ thay đổi trước đó đã gây ảnh hưởng.”
+❌ Mơ hồ: “Có lẽ thay đổi trước đó đã gây ảnh hưởng.”
 Vấn đề: làm mất sự tin cậy và thiếu tinh thần chịu trách nhiệm.
 
-→ “Có khả năng cao là do thay đổi cấu hình ngày 5/6 làm ghi đè tham số. Chúng tôi đang kiểm tra lại dựa trên log.”
+→ ✅ Rõ ràng: “Có khả năng cao là do thay đổi cấu hình ngày 5/6 làm ghi đè tham số. Chúng tôi đang kiểm tra lại dựa trên log.”
 
 4/ Đề xuất giải pháp mơ hồ
-“Tạm thời thử cách này xem sao.”
+❌ Mơ hồ: “Tạm thời thử cách này xem sao.”
 
 Vấn đề đều không chắc chắn, khiến khách cảm thấy thiếu trách nhiệm.
 
-→ “Sẽ áp dụng phương án A làm giải pháp tạm thời, và đề xuất phương án xử lý lâu dài trong tuần này.”
+→ ✅ Rõ ràng: “Sẽ áp dụng phương án A làm giải pháp tạm thời, và đề xuất phương án xử lý lâu dài trong tuần này.”
+
+5/ Giải trình sự cố mơ hồ
+❌ Mơ hồ: → “Không hiểu sao nó không chạy nữa.”
+🔍 Vấn đề: Câu này dễ khiến khách hàng mất niềm tin vì thiếu kiểm soát và không nêu nguyên nhân rõ ràng.
+
+→ ✅ Rõ ràng: “Do lỗi timeout khi kết nối cơ sở dữ liệu, API đã không phản hồi. Hiện tại đã được khôi phục bằng cách khởi động lại.”
+
+6/ Báo cáo tiến độ
+❌ Mơ hồ: → “Công việc hầu như đã xong.”
+✅ Rõ ràng: → “80% công việc đã hoàn thành, 5 test case còn lại sẽ được thực hiện trong hôm nay.”

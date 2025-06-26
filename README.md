@@ -173,3 +173,11 @@ Bạn có dựa vào các bài kiểm thử tự động ở cấp đơn vị, t
 Testing is Not Debugging: Do you understand that testing is about proving correctness, while debugging is about finding the cause of incorrectness?
 Bạn có hiểu rằng kiểm thử là để chứng minh tính đúng đắn, trong khi gỡ lỗi là để tìm ra nguyên nhân của sự không đúng đắn không?
 
+
+* DAY 7: Estimation
+
+Realistic Estimation: Are your project estimates based on careful analysis, not just wishful thinking or pressure?
+
+Phase Distribution: Is your schedule roughly allocating 1/3 planning, 1/6 coding, 1/4 component testing, and 1/4 system testing?
+
+Tracking Progress: Do you have clear, objective ways to track project progress (e.g., lines of code designed, components integrated, not just written)?

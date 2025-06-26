@@ -157,6 +157,12 @@ Code for the Future: Do you write code that is adaptable and extensible, anticip
 Bạn có viết mã có khả năng thích nghi và mở rộng, dự đoán các thay đổi có thể xảy ra trong tương lai không?
 
 
+Quality First: Is quality built in from the start, rather than being an afterthought or something to "test in" later?
+
+Process Improvement: Are managers and teams continuously looking for ways to improve their development process, focusing on human efficiency?
+
+Respect for Work: Is there a culture of respect for the work itself and the effort involved in creating quality software?
+
 * DAY 6: Testing (Kiểm thử)
 Test Early, Test Often: Do you integrate testing throughout the development lifecycle?
 Bạn có tích hợp việc kiểm thử xuyên suốt vòng đời phát triển không?
@@ -181,3 +187,12 @@ Realistic Estimation: Are your project estimates based on careful analysis, not 
 Phase Distribution: Is your schedule roughly allocating 1/3 planning, 1/6 coding, 1/4 component testing, and 1/4 system testing?
 
 Tracking Progress: Do you have clear, objective ways to track project progress (e.g., lines of code designed, components integrated, not just written)?
+
+
+* DAY 8: Risk & Fear (Rủi ro & Sợ hãi)
+  Reduce Fear: Is the workplace free from an atmosphere of fear (e.g., fear of failure, job insecurity, arbitrary decisions)?
+  
+  
+  Embrace Mistakes as Learning: Are mistakes viewed as opportunities for learning and improvement, rather than solely as failures?
+
+  Safe-to-Fail Experimentation: Are teams encouraged to experiment and try new things in a safe-to-fail environment?
